@@ -22,7 +22,10 @@
 💬 Ask me about  ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
                   ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 
-                  
+       <div align="center">
+  <!-- knock code pictures 敲代码的图片 -->
+  <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" /><br>
+  
 
 📫 How to reach me praj.asus2308@gmail.com  <p align="right">
   <img src="https://github.com/user-attachments/assets/76dc60f7-f341-4810-a7e0-1eab7537b1e7" alt="Coding Animated" width="400"/>
